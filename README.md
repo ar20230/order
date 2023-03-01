@@ -1,5 +1,5 @@
 #fruits book
--apple
--mango
--grapes
--banana
+- apple
+- mango
+- grapes
+- banana
